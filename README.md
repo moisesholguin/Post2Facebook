@@ -3,6 +3,8 @@ Post2Facebook
 
 Python script that posts to Facebook using Facepy
 
-Example Usage:
+Run program with default message:
+`$python Post2Facebook.py`
 
+Run program with custom message:
 `$python Post2Facebook.py "Enter custom message as command line argument"`
