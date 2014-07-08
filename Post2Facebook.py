@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#title           :main.py
+#title           :Post2Facebook.py
 #description     :Used to post status to Facebook
 #author          :Moises Holguin
 #email           :mholguin@cs.utexas.edu
