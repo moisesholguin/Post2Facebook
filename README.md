@@ -1,7 +1,6 @@
 Post2Facebook
 =============
-
-Python script that posts to Facebook using Facepy
+###Python script that posts to Facebook using Facepy
 
 Run program with default message:<br>
 `$python Post2Facebook.py`
